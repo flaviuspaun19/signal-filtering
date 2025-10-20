@@ -40,10 +40,10 @@ To run this VI, you will need:
 6.  Click the **STOP** button to end the execution.
 
 ### Front Panel Screenshot
-![LabVIEW Front Panel Screenshot](screenshots/Front_Panel.png)
+![LabVIEW Front Panel Screenshot](images/Front_Panel.png)
 
 ### Block Diagram Screenshot
-![LabVIEW Block Diagram Screenshot](screenshots/Block_Diagram.png)
+![LabVIEW Block Diagram Screenshot](images/Block_Diagram.png)
 
 ## Conclusion from Project
 
