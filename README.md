@@ -40,11 +40,11 @@ To run this VI, you will need:
 6.  Click the **STOP** button to end the execution.
 
 ### Front Panel Screenshot
-
+![LabVIEW Front Panel Screenshot](screenshots/Front_Panel.png)
 
 ### Block Diagram Screenshot
-
+![LabVIEW Block Diagram Screenshot](screenshots/Block_Diagram.png)
 
 ## Conclusion from Project
 
-[cite_start]The project successfully demonstrates the effectiveness of filtering in signal processing, proving that applying a filter (like the LPF) can effectively remove unwanted noise and condition a signal for further analysis or data transmission[cite: 17, 18, 58].
+The project successfully demonstrates the effectiveness of filtering in signal processing, proving that applying a filter (like the LPF) can effectively remove unwanted noise and condition a signal for further analysis or data transmission.
